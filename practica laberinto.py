@@ -47,7 +47,7 @@ def imprimir_laberinto(lab): #con questa cella assegno un colore ad ogni element
 
 
 # -----------------------------
-# LABERINTO NIVEL ÚNICO 20x20
+# LABERINTO NIVEL ÚNICO 20x13
 # -----------------------------
 lab = [
     [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
@@ -208,3 +208,4 @@ while jugando:
 
         else:
             print("Movimiento no válido.")
+
